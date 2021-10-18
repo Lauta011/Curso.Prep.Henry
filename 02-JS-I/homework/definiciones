@@ -1,0 +1,9 @@
+variables: Una variable es una especie de “contenedor” al que le ponemos un nombre y que nos sirve para guardar algún valor.
+
+strings: se utiliza para representar datos textuales
+
+Funciones (argumentos, return):Es un conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida. 
+
+Declaraciones if:Es un condicional que sirve para realizar unas u otras operaciones en función de una expresión
+
+Valores booleanos (true, false):Un valor booleano representa un valor de verdad; es decir, TRUE o FALSE.
