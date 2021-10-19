@@ -1,0 +1,5 @@
+
+&& :  sirve para concatenar expresiones 
+! : Es un operador de negacion
+|| : Es un operador logico qe se utiliza con valores booleanos devuelve true si alguno de los operdores es true, devuelve False si ambos son falsos.
+for: Es un bucle, nos ayuda a repetir un bloque de codigo muchas veces y tiene una condicion de frenado.
