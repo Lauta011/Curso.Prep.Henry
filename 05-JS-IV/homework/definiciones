@@ -1,0 +1,7 @@
+Objetos:Un objeto es una colección de propiedades
+Propiedades:Una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
+Métodos: El valor de una propiedad puede ser una función, esa propiedad es conocida como un método.
+Bucle `for…in`:Un ciclo for se repite hasta que una condición especificada se evalúe como false. El bucle for de JavaScript es similar al bucle for de Java y C.
+La instrucción for...in itera una variable especificada sobre todas las propiedades enumerables de un objeto. Para cada propiedad distinta, JavaScript ejecuta las instrucciones especificadas. 
+Notación de puntos vs notación de corchetes: notacion por punto notación de punto (dot notation). El nombre del objeto (persona) actúa como el espacio de nombre (namespace); al cual se debe ingresar primero para acceder a cualquier elemento encapsulado dentro del objeto.
+Notacion por corchetes:En lugar de usar un número de índice para seleccionar un elemento, se esta utilizando el nombre asociado con el valor de cada miembro.Los objetos a veces se denominen arreglos asociativos.
